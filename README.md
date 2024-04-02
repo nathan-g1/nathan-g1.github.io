@@ -12,7 +12,7 @@ My name is Nathan, a Software Engineer currently working on parallel algorithms,
 
   - An ongoing research on public parameters in NIZKPs
 
-- **[Solutions to Data structure and algorithm questions](https://github.com/nathan-g1/ds-and-algo-problems.git)**
+- **[Solutions to Data structure and algorithm questions](https://github.com/nathan-g1/ds-algo-problems.git)**
 
   - Problem sets from Codeforces and Leetcode in Java
 
