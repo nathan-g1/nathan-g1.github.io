@@ -16,6 +16,10 @@ My name is Nathan, a Software Engineer currently working on parallel algorithms,
 
   - Problem sets from Codeforces and Leetcode in Java
 
+- **[gRPC Math Server](https://github.com/nathan-g1/math-genius.git)**
+
+  - Math server and client using RPC
+
 <!-- TODO: Update latest posts here -->
 
 <!-- ## My latest posts, talks and presentations
