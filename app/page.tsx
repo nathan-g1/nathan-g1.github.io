@@ -25,12 +25,17 @@ export default function Page() {
       </h1>
 
       <p className="mb-4">
-        {`I'm Nathan Lechamo, a skilled software engineer with experience in machine learning, 
-        computer vision, and blockchain technologies. During my work as a Graduate Research 
-        Assistant, I developed a robust defense framework using TensorFlow to detect and mitigate 
-        adversarial patch attacks on deep learning models. This work leveraged GPU-based parallel 
-        infrastructure and Apache Spark, resulting in significant improvements in computer vision 
-        tasks. My research demonstrated better performance in patch detection and image restoration.`}
+        {`I'm Nathan Lechamo, I am a versatile software engineer with a strong 
+        background in developing robust and efficient software solutions. I have 
+        experience in creating defense frameworks using TensorFlow, constructing 
+        efficient re-compilers, and integrating utility functions using TypeScript 
+        and Node.js. I have designed error-handling algorithms that significantly 
+        reduce error resolution times, built scalable AWS Lambda functions for 
+        delivering notifications across devices, and developed front-end charts 
+        with D3.js and chart.js. My technical skills span various programming 
+        languages and tools, including C#, .NET Core, Golang, TypeScript, and 
+        JavaScript. I am recognized for delivering high-quality software solutions 
+        and have been acknowledged in hackathons and awards for my innovative contributions..`}
       </p>
 
       <p className="mb-4">
