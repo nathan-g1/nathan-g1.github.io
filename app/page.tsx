@@ -1,13 +1,12 @@
 import { BlogPosts } from 'app/components/posts'
 import Image from 'next/image'
 import profile_ from '../public/images/profile_.jpeg'
+import Link from 'next/link'
 
 export default function Page() {
   return (
     <section>
-      <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-        My Portfolio
-      </h1>
+      
 
       {/* Put a next js image using tailwind from source app/images/image.jpg */}
 
@@ -21,6 +20,10 @@ export default function Page() {
         />
       </div>
 
+      <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
+        Hello there!
+      </h1>
+
       <p className="mb-4">
         {`I'm Nathan Lechamo, a skilled software engineer with experience in machine learning, 
         computer vision, and blockchain technologies. During my work as a Graduate Research 
@@ -31,17 +34,14 @@ export default function Page() {
       </p>
 
       <p className="mb-4">
-      {`
-        In my professional career, I have made significant contributions 
-        to various organizations. At SpaceShard, I implemented optimal 
-        approaches to integrate blockchain utility functions into the 
-        Starknet-hardhat-plugin and constructed an efficient smart contract 
-        re-compiler with caching capabilities. My meticulous design and 
-        execution of over 100 unit tests and 30 integration tests ensured 
-        a seamless product rollout with approximately 90% code coverage. 
-        My diverse skill set includes Python, TypeScript, Node.js, and 
-        AWS, making me a versatile and valuable asset to any team.`}
+        {`Currently, I am working on my thesis project, that focuses on the enhancement of polar region sea ice classification
+        using multi-modal data. Check out our lab's `}
+        <Link href="https://www.cs.utsa.edu/~sprasad/parint_lab/" legacyBehavior>
+          <a className="text-blue-500 hover:underline">website</a>
+        </Link>
+        {` for more information on our research projects.`}
       </p>
+
       <div className="my-8">
         <BlogPosts />
       </div>
