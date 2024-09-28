@@ -1,6 +1,6 @@
 // next.config.js
 module.exports = {
-    images: {
-      domains: ['media.licdn.com'],
-    },
+  images: {
+    domains: ['media.licdn.com'],
+  },
 }
