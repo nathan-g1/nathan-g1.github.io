@@ -1,42 +1,39 @@
-# Portfolio Blog Starter
+# Hello! Nice to see you
 
-This is a porfolio site template complete with a blog. Includes:
+My name is Nathan, a Software Engineer currently working on parallel algorithms, blockchain algorithms
 
-- MDX and Markdown support
-- Optimized for SEO (sitemap, robots, JSON-LD schema)
-- RSS Feed
-- Dynamic OG images
-- Syntax highlighting
-- Tailwind v4
-- Vercel Speed Insights / Web Analytics
-- Geist font
+## Languages and tools I use
 
-## Demo
+  ![ ](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![ ](https://img.shields.io/badge/-Python-430098?style=flat-square&logo=python&logoColor=white) ![ ](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![ ](https://img.shields.io/badge/-Ruby-764ABC?style=flat-square&logo=ruby&logoColor=white) ![ ](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![ ](https://img.shields.io/badge/-Bash-B7178C?style=flat-square&logo=gnu-bash&logoColor=white) ![ ](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white) ![ ](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![ ](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![ ](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![ ](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![ ](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![ ](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white) ![ ](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![ ](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white) ![ ](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![ ](https://img.shields.io/badge/-D3js-F9A03C?style=flat-square&logo=d3js&logoColor=white) ![ ](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white) ![ ](https://img.shields.io/badge/-NodeJs-43853d?style=flat-square&logo=Nodejs&logoColor=white)
 
-https://portfolio-blog-starter.vercel.app
+## My projects
 
-## How to Use
+- **[Public parameters in Non-interactive Zero-Knowledge proofs](https://github.com/nathan-g1/ni-zkp.git)**
 
-You can choose from one of the following two methods to use this repository:
+  - An ongoing research on public parameters in NIZKPs
 
-### One-Click Deploy
+- **[Solutions to Data structure and algorithm questions](https://github.com/nathan-g1/ds-algo-problems.git)**
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples):
+  - Problem sets from Codeforces and Leetcode in Java
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/solutions/blog&project-name=blog&repository-name=blog)
+- **[gRPC Math Server](https://github.com/nathan-g1/math-genius.git)**
 
-### Clone and Deploy
+  - Math server and client using RPC
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [pnpm](https://pnpm.io/installation) to bootstrap the example:
+<!-- TODO: Update latest posts here -->
 
-```bash
-pnpm create next-app --example https://github.com/vercel/examples/tree/main/solutions/blog blog
-```
+<!-- ## My latest posts, talks and presentations
 
-Then, run Next.js in development mode:
+- **[Create Your First Ethereum Smart Contract With Remix IDE](https://github.com/nathan-g1/ni-zkp.git)**
 
-```bash
-pnpm dev
-```
+  - Description of the post
 
-Deploy it to the cloud with [Vercel](https://vercel.com/templates) ([Documentation](https://nextjs.org/docs/app/building-your-application/deploying)).
+- **[Create Your First Ethereum Smart Contract With Remix IDE](https://github.com/nathan-g1/ni-zkp.git)**
+
+  - Description of the post -->
+  
+## Where to find me
+
+[![Github1](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/nathan-sl) [![Github1](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/nathan-g1) [![Github1](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NathanGetachewL) [![Github1](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathangetachewlechamo) [![Github1](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nathan.lechamo)
+
+------------
