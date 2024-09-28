@@ -3,8 +3,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "deploy": "gh-pages -d out"
+    "start": "next start"
   },
   "dependencies": {
     "@tailwindcss/postcss": "4.0.0-alpha.13",
