@@ -1,5 +1,6 @@
 import { BlogPosts } from 'app/components/posts'
 import Image from 'next/image'
+import profile_ from '../public/images/profile_.jpeg'
 
 export default function Page() {
   return (
@@ -13,7 +14,7 @@ export default function Page() {
       <div className="w-32 h-32 mx-auto mb-8 relative">
         <Image
           className="rounded-full"
-          src="https://media.licdn.com/dms/image/v2/D5603AQHHJycH7b-pNw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1724863346791?e=1732752000&v=beta&t=hEVAHB6CMtmfXkkmPx1HZBDW5DacMulBZS10mRmsdAM"
+          src={profile_}
           alt="Nathan Lechamo"
           layout="fill"
           objectFit="cover"
