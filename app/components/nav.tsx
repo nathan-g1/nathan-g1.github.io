@@ -10,7 +10,7 @@ const navItems = {
     name: 'blog',
     icon: <FaBlog />,
   },
-  'https://www.linkedin.com/in/nathangetachewlechamo': {
+  'https://www.linkedin.com/in/nathanlechamo': {
     name: 'LinkedIn',
     icon: <FaLinkedin />,
   },
